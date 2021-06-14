@@ -1,0 +1,6 @@
+Added Component: Designator=USB1(USB_A/P_B)
+Added Pin To Net: NetName=5V Pin=USB1-1
+Added Pin To Net: NetName=USBIN_P Pin=USB1-2
+Added Pin To Net: NetName=USBIN_N Pin=USB1-3
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Member To Class: ClassName=POWER Member=Component USB1 USB-A

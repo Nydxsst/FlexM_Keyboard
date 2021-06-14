@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_Project.PrjPcb]
+   Generated File[USB_Receiver-RoundHoles.TXT]
+   Generated File[USB_Receiver-SlotHoles.TXT]
+   Generated File[USB_Receiver.LDP]
+   Generated File[USB_Receiver.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 17:40:08 On 2020/11/29

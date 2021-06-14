@@ -1,0 +1,4 @@
+Change Component Comment : Designator=RED1 Old Comment=POWER New Comment=SYSTEM
+Added Pin To Net: NetName=GPIO_MCU_LED Pin=R2-2
+Added Pin To Net: NetName=GPIO_MCU_LED Pin=U1-17
+Added Net: Name=GPIO_MCU_LED

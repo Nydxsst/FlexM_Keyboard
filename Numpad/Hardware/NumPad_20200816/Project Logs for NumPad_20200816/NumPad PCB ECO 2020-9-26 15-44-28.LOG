@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=OUT1_MCU_KEYPAD Pin=C18-1
+Removed Pin From Net: NetName=OUT2_MCU_KEYPAD Pin=C19-1
+Removed Pin From Net: NetName=OUT3_MCU_KEYPAD Pin=C20-1
+Removed Pin From Net: NetName=OUT4_MCU_KEYPAD Pin=C21-1
+Removed Pin From Net: NetName=OUT1_MCU_KEYPAD Pin=C22-1
+Removed Pin From Net: NetName=OUT2_MCU_KEYPAD Pin=C23-1
+Removed Pin From Net: NetName=OUT3_MCU_KEYPAD Pin=C24-1
+Removed Pin From Net: NetName=OUT4_MCU_KEYPAD Pin=C25-1
+Removed Pin From Net: NetName=OUT1_MCU_KEYPAD Pin=C26-1
+Removed Pin From Net: NetName=OUT2_MCU_KEYPAD Pin=C27-1
+Removed Pin From Net: NetName=OUT3_MCU_KEYPAD Pin=C28-1
+Removed Pin From Net: NetName=OUT4_MCU_KEYPAD Pin=C29-1
+Removed Pin From Net: NetName=OUT1_MCU_KEYPAD Pin=C30-1
+Removed Pin From Net: NetName=OUT2_MCU_KEYPAD Pin=C31-1
+Removed Pin From Net: NetName=OUT3_MCU_KEYPAD Pin=C32-1
+Removed Pin From Net: NetName=OUT4_MCU_KEYPAD Pin=C33-1
+Removed Member From Class: ClassName=KEY_Pad Member=C22
+Removed Member From Class: ClassName=KEY_Pad Member=C23
+Removed Member From Class: ClassName=KEY_Pad Member=C24
+Removed Member From Class: ClassName=KEY_Pad Member=C25
+Removed Member From Class: ClassName=KEY_Pad Member=C26
+Removed Member From Class: ClassName=KEY_Pad Member=C27
+Removed Member From Class: ClassName=KEY_Pad Member=C28
+Removed Member From Class: ClassName=KEY_Pad Member=C29
+Removed Member From Class: ClassName=KEY_Pad Member=C30
+Removed Member From Class: ClassName=KEY_Pad Member=C31
+Removed Member From Class: ClassName=KEY_Pad Member=C32
+Removed Member From Class: ClassName=KEY_Pad Member=C33
+Added Pin To Net: NetName=IN4_KEYPAD_MCU Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=IN3_KEYPAD_MCU Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=IN2_KEYPAD_MCU Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=IN1_KEYPAD_MCU Pin=C21-2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=SW1-1
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=SW2-1
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=SW3-1
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=NetD4_A Pin=SW4-1
+Added Net: Name=NetD4_A
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=NetD5_A Pin=SW5-1
+Added Net: Name=NetD5_A
+Added Pin To Net: NetName=NetD6_A Pin=D6-A
+Added Pin To Net: NetName=NetD6_A Pin=SW6-1
+Added Net: Name=NetD6_A
+Added Pin To Net: NetName=NetD7_A Pin=D7-A
+Added Pin To Net: NetName=NetD7_A Pin=SW7-1
+Added Net: Name=NetD7_A
+Added Pin To Net: NetName=NetD8_A Pin=D8-A
+Added Pin To Net: NetName=NetD8_A Pin=SW8-1
+Added Net: Name=NetD8_A
+Added Pin To Net: NetName=NetD9_A Pin=D9-A
+Added Pin To Net: NetName=NetD9_A Pin=SW9-1
+Added Net: Name=NetD9_A
+Added Pin To Net: NetName=NetD10_A Pin=D10-A
+Added Pin To Net: NetName=NetD10_A Pin=SW10-1
+Added Net: Name=NetD10_A
+Added Pin To Net: NetName=NetD11_A Pin=D11-A
+Added Pin To Net: NetName=NetD11_A Pin=SW11-1
+Added Net: Name=NetD11_A
+Added Pin To Net: NetName=NetD12_A Pin=D12-A
+Added Pin To Net: NetName=NetD12_A Pin=SW12-1
+Added Net: Name=NetD12_A
+Added Pin To Net: NetName=NetD13_A Pin=D13-A
+Added Pin To Net: NetName=NetD13_A Pin=SW13-1
+Added Net: Name=NetD13_A
+Added Pin To Net: NetName=NetD14_A Pin=D14-A
+Added Pin To Net: NetName=NetD14_A Pin=SW14-1
+Added Net: Name=NetD14_A
+Added Pin To Net: NetName=NetD15_A Pin=D15-A
+Added Pin To Net: NetName=NetD15_A Pin=SW15-1
+Added Net: Name=NetD15_A
+Added Pin To Net: NetName=NetD16_A Pin=D16-A
+Added Pin To Net: NetName=NetD16_A Pin=SW16-1
+Added Net: Name=NetD16_A

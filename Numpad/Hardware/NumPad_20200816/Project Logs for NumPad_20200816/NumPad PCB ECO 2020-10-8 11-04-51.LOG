@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=IN1_KEYPAD_MCU Pin=U2-25
+Removed Pin From Net: NetName=IN2_KEYPAD_MCU Pin=U2-26
+Removed Pin From Net: NetName=IN3_KEYPAD_MCU Pin=U2-27
+Removed Pin From Net: NetName=IN4_KEYPAD_MCU Pin=U2-28
+Removed Pin From Net: NetName=OUT4_MCU_KEYPAD Pin=U2-42
+Removed Pin From Net: NetName=OUT3_MCU_KEYPAD Pin=U2-43
+Removed Pin From Net: NetName=OUT2_MCU_KEYPAD Pin=U2-45
+Removed Pin From Net: NetName=OUT1_MCU_KEYPAD Pin=U2-46
+Added Pin To Net: NetName=OUT4_MCU_KEYPAD Pin=U2-25
+Added Pin To Net: NetName=OUT3_MCU_KEYPAD Pin=U2-26
+Added Pin To Net: NetName=OUT2_MCU_KEYPAD Pin=U2-27
+Added Pin To Net: NetName=OUT1_MCU_KEYPAD Pin=U2-28
+Added Pin To Net: NetName=IN1_KEYPAD_MCU Pin=U2-42
+Added Pin To Net: NetName=IN2_KEYPAD_MCU Pin=U2-43
+Added Pin To Net: NetName=IN3_KEYPAD_MCU Pin=U2-45
+Added Pin To Net: NetName=IN4_KEYPAD_MCU Pin=U2-46

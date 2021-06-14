@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=C3-2
+Removed Pin From Net: NetName=NetC2_1 Pin=E1-1
+Removed Pin From Net: NetName=NetC2_2 Pin=L1-2
+Change Component Footprint: Designator=C2 Old Footprint=Cap-0603 New Footprint=Cap-0402
+Change Component Footprint: Designator=C3 Old Footprint=Cap-0603 New Footprint=Cap-0402
+Change Component Footprint: Designator=C7 Old Footprint=Cap-0603 New Footprint=Cap-0402
+Change Component Footprint: Designator=C8 Old Footprint=Cap-0603 New Footprint=Cap-0402
+Change Component Footprint: Designator=L1 Old Footprint=L-0603 New Footprint=L-0402
+Change Component Footprint: Designator=L2 Old Footprint=L-0603 New Footprint=L-0402
+Change Component Footprint: Designator=L3 Old Footprint=L-0603 New Footprint=L-0402
+Change Component Comment : Designator=C2 Old Comment=1.5pFP New Comment=1.5pF
+Change Component Comment : Designator=C7 Old Comment=2.2nF New Comment=4.7nF
+Change Component Comment : Designator=C8 Old Comment=4.7nF New Comment=2.2nF
+Change Component Designator: OldDesignator=C34 NewDesignator=C22
+Change Component Designator: OldDesignator=C35 NewDesignator=C23
+Change Component Designator: OldDesignator=C36 NewDesignator=C24
+Change Component Designator: OldDesignator=C37 NewDesignator=C25
+Change Component Designator: OldDesignator=C38 NewDesignator=C26
+Change Component Designator: OldDesignator=C39 NewDesignator=C27
+Change Component Designator: OldDesignator=C40 NewDesignator=C28
+Change Component Designator: OldDesignator=C41 NewDesignator=C29
+Change Component Designator: OldDesignator=C42 NewDesignator=C30
+Change Component Designator: OldDesignator=C43 NewDesignator=C31
+Change Component Designator: OldDesignator=C44 NewDesignator=C32
+Change Component Designator: OldDesignator=C45 NewDesignator=C33
+Change Component Designator: OldDesignator=C46 NewDesignator=C34
+Change Component Designator: OldDesignator=C47 NewDesignator=C35
+Change Component Designator: OldDesignator=C48 NewDesignator=C36
+Change Component Designator: OldDesignator=C49 NewDesignator=C37
+Change Component Designator: OldDesignator=C50 NewDesignator=C38
+Change Component Designator: OldDesignator=C51 NewDesignator=C39
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Pin To Net: NetName=NetC2_2 Pin=C3-2
+Added Pin To Net: NetName=NetC2_2 Pin=E1-1
+Added Pin To Net: NetName=NetC2_1 Pin=L1-2
+Change Net Name : Old Net Name=NetC48_2 New Net Name=NetC36_2

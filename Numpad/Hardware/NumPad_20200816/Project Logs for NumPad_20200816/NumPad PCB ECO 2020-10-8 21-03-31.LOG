@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=GPIO_CE_MCU_NRF Pin=U1-1
+Removed Pin From Net: NetName=SPI_CSN_MCU_NRF Pin=U1-2
+Removed Pin From Net: NetName=SPI_SCK_MCU_NRF Pin=U1-3
+Removed Pin From Net: NetName=SPI_MOSI_MCU_NRF Pin=U1-4
+Removed Pin From Net: NetName=SPI_MISO_NRF_MCU Pin=U1-5
+Removed Pin From Net: NetName=GPIO_IRQ_NRF_MCU Pin=U1-6
+Removed Pin From Net: NetName=RF_3V3 Pin=U1-7
+Removed Pin From Net: NetName=RF_GND Pin=U1-8
+Removed Pin From Net: NetName=NetC9_2 Pin=U1-9
+Removed Pin From Net: NetName=NetC10_2 Pin=U1-10
+Removed Pin From Net: NetName=NetC7_2 Pin=U1-11
+Removed Pin From Net: NetName=NetL2_1 Pin=U1-12
+Removed Pin From Net: NetName=NetL1_1 Pin=U1-13
+Removed Pin From Net: NetName=RF_GND Pin=U1-14
+Removed Pin From Net: NetName=RF_3V3 Pin=U1-15
+Removed Pin From Net: NetName=NetR1_2 Pin=U1-16
+Removed Pin From Net: NetName=RF_GND Pin=U1-17
+Removed Pin From Net: NetName=RF_3V3 Pin=U1-18
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-19
+Removed Pin From Net: NetName=RF_GND Pin=U1-20
+Removed Member From Class: ClassName=NRF24L01 Member=U1
+Change Component Comment : Designator=X1 Old Comment=XTAL-4P New Comment=16M
+Added Component: Designator=U?(QFN20 4x4)
+Added Pin To Net: NetName=GPIO_CE_MCU_NRF Pin=U?-1
+Added Pin To Net: NetName=SPI_CSN_MCU_NRF Pin=U?-2
+Added Pin To Net: NetName=SPI_SCK_MCU_NRF Pin=U?-3
+Added Pin To Net: NetName=SPI_MOSI_MCU_NRF Pin=U?-4
+Added Pin To Net: NetName=SPI_MISO_NRF_MCU Pin=U?-5
+Added Pin To Net: NetName=GPIO_IRQ_NRF_MCU Pin=U?-6
+Added Pin To Net: NetName=RF_3V3 Pin=U?-7
+Added Pin To Net: NetName=RF_GND Pin=U?-8
+Added Pin To Net: NetName=NetC9_2 Pin=U?-9
+Added Pin To Net: NetName=NetC10_2 Pin=U?-10
+Added Pin To Net: NetName=NetC7_2 Pin=U?-11
+Added Pin To Net: NetName=NetL2_1 Pin=U?-12
+Added Pin To Net: NetName=NetL1_1 Pin=U?-13
+Added Pin To Net: NetName=RF_GND Pin=U?-14
+Added Pin To Net: NetName=RF_3V3 Pin=U?-15
+Added Pin To Net: NetName=NetR1_2 Pin=U?-16
+Added Pin To Net: NetName=RF_GND Pin=U?-17
+Added Pin To Net: NetName=RF_3V3 Pin=U?-18
+Added Pin To Net: NetName=NetC1_2 Pin=U?-19
+Added Pin To Net: NetName=RF_GND Pin=U?-20
+Added Pin To Net: NetName=RF_GND Pin=U?-21
+Added Member To Class: ClassName=NRF24L01 Member=Component U? NRF24R01

@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: USB_Receiver.PcbDoc   2020/11/29  17:40:08
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : USB_Receiver-RoundHoles.TXT
+ASCII SlotHoles File : USB_Receiver-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             36        PTH        0.00inch (0.00mm)
+T2      12mil (0.3mm)                                             Round             7         PTH        0.00inch (0.00mm)
+T3      12mil (0.305mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T4      30mil (0.762mm)                                           Slot              2         PTH        0.00inch (0.00mm)
+T5      43mil (1.1mm)                                             Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              51
+
+Total Processing Time (hh:mm:ss) : 00:00:00

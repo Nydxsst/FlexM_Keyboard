@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: E:\Working backup\3.Project\MY Project\9.无线键盘鼠标\MY\接收器\PCB_Project\USB_Receiver.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

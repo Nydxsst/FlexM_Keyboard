@@ -1,0 +1,39 @@
+Removed Member From Class: ClassName=LED Member=C38
+Removed Member From Class: ClassName=LED Member=C42
+Removed Member From Class: ClassName=LED Member=C48
+Removed Member From Class: ClassName=LED Member=C51
+Added Pin To Net: NetName=GPIO_IRQ_NRF_MCU Pin=U2-14
+Added Pin To Net: NetName=DI_MCU_WS2812 Pin=U2-25
+Added Pin To Net: NetName=GPIO_MCU_LED Pin=U2-26
+Added Pin To Net: NetName=CHARGE_DETECT_TP4056_MCU Pin=U2-27
+Added Pin To Net: NetName=PWR_ONOFF_MCU_SW Pin=U2-28
+Added Pin To Net: NetName=IN1_KEYPAD_MCU Pin=U2-38
+Added Pin To Net: NetName=IN2_KEYPAD_MCU Pin=U2-39
+Added Pin To Net: NetName=IN3_KEYPAD_MCU Pin=U2-40
+Added Pin To Net: NetName=IN4_KEYPAD_MCU Pin=U2-41
+Added Pin To Net: NetName=OUT4_MCU_KEYPAD Pin=U2-42
+Added Pin To Net: NetName=OUT3_MCU_KEYPAD Pin=U2-43
+Added Pin To Net: NetName=OUT2_MCU_KEYPAD Pin=U2-45
+Added Pin To Net: NetName=OUT1_MCU_KEYPAD Pin=U2-46
+Added Member To Class: ClassName=LED Member=Component C34 104
+Added Member To Class: ClassName=LED Member=Component C35 104
+Added Member To Class: ClassName=LED Member=Component C36 104
+Added Member To Class: ClassName=LED Member=Component C37 104
+Added Member To Class: ClassName=POWER Member=Component C39 104
+Added Member To Class: ClassName=POWER Member=Component C40 22uF
+Added Member To Class: ClassName=POWER Member=Component C41 22uF
+Added Member To Class: ClassName=POWER Member=Component C43 104
+Added Member To Class: ClassName=POWER Member=Component C44 104
+Added Member To Class: ClassName=POWER Member=Component C45 104
+Added Member To Class: ClassName=POWER Member=Component C46 22uF
+Added Member To Class: ClassName=POWER Member=Component C47 104
+Added Member To Class: ClassName=POWER Member=Component D24 1N4148
+Added Member To Class: ClassName=POWER Member=Component D25 1N4148
+Added Member To Class: ClassName=POWER Member=Component L5 4.7uH
+Added Member To Class: ClassName=POWER Member=Component R7 1K5
+Added Member To Class: ClassName=POWER Member=Component R9 22R
+Added Member To Class: ClassName=POWER Member=Component R12 10K/1%
+Added Member To Class: ClassName=POWER Member=Component R14 10K
+Added Member To Class: ClassName=POWER Member=Component R16 100K
+Added Member To Class: ClassName=POWER Member=Component R20 2K
+Added Member To Class: ClassName=POWER Member=Component U4 SPX3819

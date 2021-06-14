@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=DI_MCU_WS2812 Pin=U2-25
+Removed Pin From Net: NetName=GPIO_MCU_LED Pin=U2-26
+Removed Pin From Net: NetName=CHARGE_DETECT_TP4056_MCU Pin=U2-27
+Removed Pin From Net: NetName=PWR_ONOFF_MCU_SW Pin=U2-28
+Removed Pin From Net: NetName=IN1_KEYPAD_MCU Pin=U2-38
+Removed Pin From Net: NetName=IN2_KEYPAD_MCU Pin=U2-39
+Removed Pin From Net: NetName=IN3_KEYPAD_MCU Pin=U2-40
+Removed Pin From Net: NetName=IN4_KEYPAD_MCU Pin=U2-41
+Added Pin To Net: NetName=IN1_KEYPAD_MCU Pin=U2-25
+Added Pin To Net: NetName=IN2_KEYPAD_MCU Pin=U2-26
+Added Pin To Net: NetName=IN3_KEYPAD_MCU Pin=U2-27
+Added Pin To Net: NetName=IN4_KEYPAD_MCU Pin=U2-28
+Added Pin To Net: NetName=DI_MCU_WS2812 Pin=U2-38
+Added Pin To Net: NetName=GPIO_MCU_LED Pin=U2-39
+Added Pin To Net: NetName=CHARGE_DETECT_TP4056_MCU Pin=U2-40
+Added Pin To Net: NetName=PWR_ONOFF_MCU_SW Pin=U2-41

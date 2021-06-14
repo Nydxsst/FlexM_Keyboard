@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: USB_Wireless_2.4G.PcbDoc   2020/11/29  20:10:25
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : USB_Wireless_2.4G-RoundHoles.TXT
+ASCII SlotHoles File : USB_Wireless_2.4G-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             9         PTH        0.00inch (0.00mm)
+T2      13mil (0.33mm)                                            Round             36        PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T4      39mil (1mm)                                               Slot              2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              53
+
+Total Processing Time (hh:mm:ss) : 00:00:00

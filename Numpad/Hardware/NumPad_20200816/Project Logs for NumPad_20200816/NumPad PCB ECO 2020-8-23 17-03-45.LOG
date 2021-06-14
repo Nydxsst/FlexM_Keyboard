@@ -1,0 +1,9 @@
+Added Component: Designator=P1(Header 2.54X3)
+Added Component: Designator=XH1(XH2/2.54mm/180)
+Added Pin To Net: NetName=Red Pin=P1-1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=Green Pin=P1-3
+Added Pin To Net: NetName=NetC5_1 Pin=XH1-1
+Added Pin To Net: NetName=GND Pin=XH1-2
+Added Member To Class: ClassName=NumPad Member=Component P1 LED
+Added Member To Class: ClassName=NumPad Member=Component XH1 BAT_IN
