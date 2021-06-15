@@ -12,7 +12,6 @@
   */
 	
 #include "stm32f10x.h"
-//#include "key.h"
 #include "power.h"
 #include "time.h"
 #include "ws2812b.h"
@@ -28,7 +27,6 @@ __IO uint8_t PrevXferComplete = 1;
 
 int main(void)
 {
-	u8 key_onoff_start = 0;//开始按下Num键标志，检测到按下后开始计时，超过一定时间使键盘断电
 	u16 Get_Adc_Val = 0;
 	u8 Charge_Full_Flag = 0;
 	
@@ -39,7 +37,6 @@ int main(void)
 	Delay_Init();
 	Usart_Debug_Init(115200);
 	Led_Init();
-	//Key_Init();//key.c文件放按键检测驱动，Num键与电源有关，故放于power.c文件中
 	TIM_DELAY_Init();
 	WS2812_Init();
 	Adc_Init();

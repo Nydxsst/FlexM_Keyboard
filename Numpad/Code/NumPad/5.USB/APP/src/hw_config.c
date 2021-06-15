@@ -259,10 +259,10 @@ void keyboard_Send(uint8_t Keys)
   * @param  nTime: specifies the delay time length, in milliseconds.
   * @retval None
   */
-static void Delay(__IO uint32_t nTime)
-{
-	for(; nTime != 0; nTime--);
-}
+//static void Delay(__IO uint32_t nTime)
+//{
+//	for(; nTime != 0; nTime--);
+//}
 
 /**
   * Function Name  : Get_SerialNum.

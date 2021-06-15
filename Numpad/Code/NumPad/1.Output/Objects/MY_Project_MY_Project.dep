@@ -1,5 +1,5 @@
 Dependencies for Project 'MY_Project', Target 'MY_Project': (DO NOT MODIFY !)
-F (.\2.User\main.c)(0x60C78FE5)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\main.o --omf_browse .\1.output\objects\main.crf --depend .\1.output\objects\main.d)
+F (.\2.User\main.c)(0x60C8CD58)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\main.o --omf_browse .\1.output\objects\main.crf --depend .\1.output\objects\main.d)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
 I (D:\Installation\KEIL_MDK\KEIL5_27\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
@@ -49,13 +49,13 @@ I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_init.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_sil.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_mem.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_int.h)(0x5C62E9A0)
-I (.\5.USB\APP\inc\usb_desc.h)(0x60C7907D)
+I (.\5.USB\APP\inc\usb_desc.h)(0x60C790D4)
 I (.\5.USB\APP\inc\usb_pwr.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_istr.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_prop.h)(0x5C62E9A0)
-I (.\2.User\keyboard\keyboard.h)(0x60C787E7)
+I (.\2.User\keyboard\keyboard.h)(0x60C7915E)
 F (.\2.User\stm32f10x_conf.h)(0x5EBCD1D7)()
-F (.\2.User\sys\sys.c)(0x5DF48AC6)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\sys.o --omf_browse .\1.output\objects\sys.crf --depend .\1.output\objects\sys.d)
+F (.\2.User\sys\sys.c)(0x5DF48AC6)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\sys.o --omf_browse .\1.output\objects\sys.crf --depend .\1.output\objects\sys.d)
 I (2.User\sys\sys.h)(0x5EBCD377)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
@@ -90,7 +90,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-F (.\2.User\delay\delay.c)(0x5EBCD10C)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\delay.o --omf_browse .\1.output\objects\delay.crf --depend .\1.output\objects\delay.d)
+F (.\2.User\delay\delay.c)(0x5EBCD10C)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\delay.o --omf_browse .\1.output\objects\delay.crf --depend .\1.output\objects\delay.d)
 I (2.User\delay\delay.h)(0x5EBCD9AC)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
@@ -125,7 +125,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-F (.\2.User\led\led.c)(0x60C7007B)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\led.o --omf_browse .\1.output\objects\led.crf --depend .\1.output\objects\led.d)
+F (.\2.User\led\led.c)(0x60C7007B)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\led.o --omf_browse .\1.output\objects\led.crf --depend .\1.output\objects\led.d)
 I (2.User\led\led.h)(0x5F90636A)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
@@ -160,7 +160,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-F (.\2.User\usart_debug\usart_debug.c)(0x5E0ADD21)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usart_debug.o --omf_browse .\1.output\objects\usart_debug.crf --depend .\1.output\objects\usart_debug.d)
+F (.\2.User\usart_debug\usart_debug.c)(0x5E0ADD21)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usart_debug.o --omf_browse .\1.output\objects\usart_debug.crf --depend .\1.output\objects\usart_debug.d)
 I (2.User\usart_debug\usart_debug.h)(0x5EBCD220)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
@@ -195,42 +195,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-F (.\2.User\key\key.c)(0x5EFC4546)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\key.o --omf_browse .\1.output\objects\key.crf --depend .\1.output\objects\key.d)
-I (2.User\key\key.h)(0x5F90636A)
-I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
-I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
-I (D:\Installation\KEIL_MDK\KEIL5_27\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
-I (.\3.Libraries\CMSIS\system_stm32f10x.h)(0x58953819)
-I (.\2.User\stm32f10x_conf.h)(0x5EBCD1D7)
-I (D:\Installation\KEIL_MDK\KEIL5_27\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
-I (.\2.User\sys\sys.h)(0x5EBCD377)
-I (.\2.User\usart_debug\usart_debug.h)(0x5EBCD220)
-I (.\2.User\delay\delay.h)(0x5EBCD9AC)
-I (.\2.User\led\led.h)(0x5F90636A)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-F (.\2.User\power\power.c)(0x60C713AF)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\power.o --omf_browse .\1.output\objects\power.crf --depend .\1.output\objects\power.d)
+F (.\2.User\power\power.c)(0x60C713AF)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\power.o --omf_browse .\1.output\objects\power.crf --depend .\1.output\objects\power.d)
 I (2.User\power\power.h)(0x60C70C08)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
@@ -265,7 +230,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-F (.\2.User\time\time.c)(0x5F9073CF)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\time.o --omf_browse .\1.output\objects\time.crf --depend .\1.output\objects\time.d)
+F (.\2.User\time\time.c)(0x5F9073CF)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\time.o --omf_browse .\1.output\objects\time.crf --depend .\1.output\objects\time.d)
 I (2.User\time\time.h)(0x5F906ECA)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
@@ -300,7 +265,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-F (.\2.User\ws2812b\ws2812b.c)(0x5F93134C)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\ws2812b.o --omf_browse .\1.output\objects\ws2812b.crf --depend .\1.output\objects\ws2812b.d)
+F (.\2.User\ws2812b\ws2812b.c)(0x5F93134C)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\ws2812b.o --omf_browse .\1.output\objects\ws2812b.crf --depend .\1.output\objects\ws2812b.d)
 I (2.User\ws2812b\ws2812b.h)(0x5F9523F4)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
@@ -335,7 +300,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-F (.\2.User\adc\adc.c)(0x5F957E7D)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\adc.o --omf_browse .\1.output\objects\adc.crf --depend .\1.output\objects\adc.d)
+F (.\2.User\adc\adc.c)(0x5F957E7D)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\adc.o --omf_browse .\1.output\objects\adc.crf --depend .\1.output\objects\adc.d)
 I (2.User\adc\adc.h)(0x5F957E8E)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
@@ -370,8 +335,8 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-F (.\2.User\keyboard\keyboard.c)(0x60C78EE9)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\keyboard.o --omf_browse .\1.output\objects\keyboard.crf --depend .\1.output\objects\keyboard.d)
-I (2.User\keyboard\keyboard.h)(0x60C787E7)
+F (.\2.User\keyboard\keyboard.c)(0x60C7914A)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\keyboard.o --omf_browse .\1.output\objects\keyboard.crf --depend .\1.output\objects\keyboard.d)
+I (2.User\keyboard\keyboard.h)(0x60C7915E)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
 I (D:\Installation\KEIL_MDK\KEIL5_27\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
@@ -417,12 +382,12 @@ I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_init.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_sil.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_mem.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_int.h)(0x5C62E9A0)
-I (.\5.USB\APP\inc\usb_desc.h)(0x60C7907D)
+I (.\5.USB\APP\inc\usb_desc.h)(0x60C790D4)
 I (.\5.USB\APP\inc\usb_pwr.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_istr.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_prop.h)(0x5C62E9A0)
 F (.\3.Libraries\CMSIS\startup\startup_stm32f10x_md.s)(0x58953819)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 527" --pd "STM32F10X_MD SETA 1"--list .\1.output\listings\startup_stm32f10x_md.lst --xref -o .\1.output\objects\startup_stm32f10x_md.o --depend .\1.output\objects\startup_stm32f10x_md.d)
-F (.\3.Libraries\CMSIS\system_stm32f10x.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\system_stm32f10x.o --omf_browse .\1.output\objects\system_stm32f10x.crf --depend .\1.output\objects\system_stm32f10x.d)
+F (.\3.Libraries\CMSIS\system_stm32f10x.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\system_stm32f10x.o --omf_browse .\1.output\objects\system_stm32f10x.crf --depend .\1.output\objects\system_stm32f10x.d)
 I (3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
 I (D:\Installation\KEIL_MDK\KEIL5_27\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
@@ -457,9 +422,9 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-F (.\3.Libraries\CMSIS\core\core_cm3.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\core_cm3.o --omf_browse .\1.output\objects\core_cm3.crf --depend .\1.output\objects\core_cm3.d)
+F (.\3.Libraries\CMSIS\core\core_cm3.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\core_cm3.o --omf_browse .\1.output\objects\core_cm3.crf --depend .\1.output\objects\core_cm3.d)
 I (D:\Installation\KEIL_MDK\KEIL5_27\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
-F (.\3.Libraries\STM32F10x_StdPeriph_Driver\src\misc.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\misc.o --omf_browse .\1.output\objects\misc.crf --depend .\1.output\objects\misc.d)
+F (.\3.Libraries\STM32F10x_StdPeriph_Driver\src\misc.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\misc.o --omf_browse .\1.output\objects\misc.crf --depend .\1.output\objects\misc.d)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
@@ -493,7 +458,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
-F (.\3.Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\stm32f10x_gpio.o --omf_browse .\1.output\objects\stm32f10x_gpio.crf --depend .\1.output\objects\stm32f10x_gpio.d)
+F (.\3.Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\stm32f10x_gpio.o --omf_browse .\1.output\objects\stm32f10x_gpio.crf --depend .\1.output\objects\stm32f10x_gpio.d)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x58953819)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
@@ -527,7 +492,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-F (.\3.Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\stm32f10x_rcc.o --omf_browse .\1.output\objects\stm32f10x_rcc.crf --depend .\1.output\objects\stm32f10x_rcc.d)
+F (.\3.Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\stm32f10x_rcc.o --omf_browse .\1.output\objects\stm32f10x_rcc.crf --depend .\1.output\objects\stm32f10x_rcc.d)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x58953819)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
@@ -561,7 +526,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-F (.\3.Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_usart.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\stm32f10x_usart.o --omf_browse .\1.output\objects\stm32f10x_usart.crf --depend .\1.output\objects\stm32f10x_usart.d)
+F (.\3.Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_usart.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\stm32f10x_usart.o --omf_browse .\1.output\objects\stm32f10x_usart.crf --depend .\1.output\objects\stm32f10x_usart.d)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
@@ -595,7 +560,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-F (.\3.Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_exti.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\stm32f10x_exti.o --omf_browse .\1.output\objects\stm32f10x_exti.crf --depend .\1.output\objects\stm32f10x_exti.d)
+F (.\3.Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_exti.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\stm32f10x_exti.o --omf_browse .\1.output\objects\stm32f10x_exti.crf --depend .\1.output\objects\stm32f10x_exti.d)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x58953819)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
@@ -629,7 +594,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-F (.\3.Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_tim.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\stm32f10x_tim.o --omf_browse .\1.output\objects\stm32f10x_tim.crf --depend .\1.output\objects\stm32f10x_tim.d)
+F (.\3.Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_tim.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\stm32f10x_tim.o --omf_browse .\1.output\objects\stm32f10x_tim.crf --depend .\1.output\objects\stm32f10x_tim.d)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
@@ -663,7 +628,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-F (.\3.Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_adc.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\stm32f10x_adc.o --omf_browse .\1.output\objects\stm32f10x_adc.crf --depend .\1.output\objects\stm32f10x_adc.d)
+F (.\3.Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_adc.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\stm32f10x_adc.o --omf_browse .\1.output\objects\stm32f10x_adc.crf --depend .\1.output\objects\stm32f10x_adc.d)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x58953819)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
@@ -697,7 +662,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-F (.\3.Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_spi.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\stm32f10x_spi.o --omf_browse .\1.output\objects\stm32f10x_spi.crf --depend .\1.output\objects\stm32f10x_spi.d)
+F (.\3.Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_spi.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\stm32f10x_spi.o --omf_browse .\1.output\objects\stm32f10x_spi.crf --depend .\1.output\objects\stm32f10x_spi.d)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x58953819)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
@@ -731,7 +696,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-F (.\3.Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_dma.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\stm32f10x_dma.o --omf_browse .\1.output\objects\stm32f10x_dma.crf --depend .\1.output\objects\stm32f10x_dma.d)
+F (.\3.Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_dma.c)(0x58953819)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\stm32f10x_dma.o --omf_browse .\1.output\objects\stm32f10x_dma.crf --depend .\1.output\objects\stm32f10x_dma.d)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x58953819)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
 I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
@@ -765,8 +730,8 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-F (.\4.Doc\readme.txt)(0x60C71DFA)()
-F (.\5.USB\APP\src\hw_config.c)(0x5CED3A3F)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\hw_config.o --omf_browse .\1.output\objects\hw_config.crf --depend .\1.output\objects\hw_config.d)
+F (.\4.Doc\readme.txt)(0x60C79124)()
+F (.\5.USB\APP\src\hw_config.c)(0x60C8CD58)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\hw_config.o --omf_browse .\1.output\objects\hw_config.crf --depend .\1.output\objects\hw_config.d)
 I (.\5.USB\APP\inc\hw_config.h)(0x5CE268A1)
 I (.\5.USB\APP\inc\platform_config.h)(0x5C62E9A0)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
@@ -812,12 +777,12 @@ I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_init.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_sil.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_mem.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_int.h)(0x5C62E9A0)
-I (.\5.USB\APP\inc\usb_desc.h)(0x60C7907D)
+I (.\5.USB\APP\inc\usb_desc.h)(0x60C790D4)
 I (.\5.USB\APP\inc\usb_pwr.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_istr.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_prop.h)(0x5C62E9A0)
-F (.\5.USB\APP\src\usb_desc.c)(0x60C7206D)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_desc.o --omf_browse .\1.output\objects\usb_desc.crf --depend .\1.output\objects\usb_desc.d)
-I (.\5.USB\APP\inc\usb_desc.h)(0x60C7907D)
+F (.\5.USB\APP\src\usb_desc.c)(0x60C7206D)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_desc.o --omf_browse .\1.output\objects\usb_desc.crf --depend .\1.output\objects\usb_desc.d)
+I (.\5.USB\APP\inc\usb_desc.h)(0x60C790D4)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_lib.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\hw_config.h)(0x5CE268A1)
 I (.\5.USB\APP\inc\platform_config.h)(0x5C62E9A0)
@@ -866,7 +831,7 @@ I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_init.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_sil.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_mem.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_int.h)(0x5C62E9A0)
-F (.\5.USB\APP\src\usb_endp.c)(0x5CE3B0AD)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_endp.o --omf_browse .\1.output\objects\usb_endp.crf --depend .\1.output\objects\usb_endp.d)
+F (.\5.USB\APP\src\usb_endp.c)(0x5CE3B0AD)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_endp.o --omf_browse .\1.output\objects\usb_endp.crf --depend .\1.output\objects\usb_endp.d)
 I (.\5.USB\APP\inc\hw_config.h)(0x5CE268A1)
 I (.\5.USB\APP\inc\platform_config.h)(0x5C62E9A0)
 I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
@@ -912,11 +877,11 @@ I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_init.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_sil.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_mem.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_int.h)(0x5C62E9A0)
-I (.\5.USB\APP\inc\usb_desc.h)(0x60C7907D)
+I (.\5.USB\APP\inc\usb_desc.h)(0x60C790D4)
 I (.\5.USB\APP\inc\usb_pwr.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_istr.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_prop.h)(0x5C62E9A0)
-F (.\5.USB\APP\src\usb_istr.c)(0x5C62E9A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_istr.o --omf_browse .\1.output\objects\usb_istr.crf --depend .\1.output\objects\usb_istr.d)
+F (.\5.USB\APP\src\usb_istr.c)(0x5C62E9A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_istr.o --omf_browse .\1.output\objects\usb_istr.crf --depend .\1.output\objects\usb_istr.d)
 I (.\5.USB\APP\inc\usb_istr.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_conf.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_lib.h)(0x5C62E9A0)
@@ -956,7 +921,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_type.h)(0x5C62E9A0)
-I (.\5.USB\APP\inc\usb_desc.h)(0x60C7907D)
+I (.\5.USB\APP\inc\usb_desc.h)(0x60C790D4)
 I (.\5.USB\APP\inc\usb_pwr.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_core.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_regs.h)(0x5C62E9A0)
@@ -966,7 +931,7 @@ I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_sil.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_mem.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_int.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_prop.h)(0x5C62E9A0)
-F (.\5.USB\APP\src\usb_prop.c)(0x5C62E9A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_prop.o --omf_browse .\1.output\objects\usb_prop.crf --depend .\1.output\objects\usb_prop.d)
+F (.\5.USB\APP\src\usb_prop.c)(0x5C62E9A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_prop.o --omf_browse .\1.output\objects\usb_prop.crf --depend .\1.output\objects\usb_prop.d)
 I (.\5.USB\APP\inc\usb_prop.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_lib.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\hw_config.h)(0x5CE268A1)
@@ -1006,7 +971,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_type.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_conf.h)(0x5C62E9A0)
-I (.\5.USB\APP\inc\usb_desc.h)(0x60C7907D)
+I (.\5.USB\APP\inc\usb_desc.h)(0x60C790D4)
 I (.\5.USB\APP\inc\usb_pwr.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_core.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_istr.h)(0x5C62E9A0)
@@ -1016,7 +981,7 @@ I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_init.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_sil.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_mem.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_int.h)(0x5C62E9A0)
-F (.\5.USB\APP\src\usb_pwr.c)(0x5C62E9A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_pwr.o --omf_browse .\1.output\objects\usb_pwr.crf --depend .\1.output\objects\usb_pwr.d)
+F (.\5.USB\APP\src\usb_pwr.c)(0x5C62E9A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_pwr.o --omf_browse .\1.output\objects\usb_pwr.crf --depend .\1.output\objects\usb_pwr.d)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_lib.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\hw_config.h)(0x5CE268A1)
 I (.\5.USB\APP\inc\platform_config.h)(0x5C62E9A0)
@@ -1055,57 +1020,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_type.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_conf.h)(0x5C62E9A0)
-I (.\5.USB\APP\inc\usb_desc.h)(0x60C7907D)
-I (.\5.USB\APP\inc\usb_pwr.h)(0x5C62E9A0)
-I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_core.h)(0x5C62E9A0)
-I (.\5.USB\APP\inc\usb_istr.h)(0x5C62E9A0)
-I (.\5.USB\APP\inc\usb_prop.h)(0x5C62E9A0)
-I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_regs.h)(0x5C62E9A0)
-I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_def.h)(0x5C62E9A0)
-I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_init.h)(0x5C62E9A0)
-I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_sil.h)(0x5C62E9A0)
-I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_mem.h)(0x5C62E9A0)
-I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_int.h)(0x5C62E9A0)
-F (.\5.USB\STM32_USB-FS-Device_Driver\src\usb_core.c)(0x5C62E9A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_core.o --omf_browse .\1.output\objects\usb_core.crf --depend .\1.output\objects\usb_core.d)
-I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_lib.h)(0x5C62E9A0)
-I (.\5.USB\APP\inc\hw_config.h)(0x5CE268A1)
-I (.\5.USB\APP\inc\platform_config.h)(0x5C62E9A0)
-I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
-I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
-I (D:\Installation\KEIL_MDK\KEIL5_27\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
-I (.\3.Libraries\CMSIS\system_stm32f10x.h)(0x58953819)
-I (.\2.User\stm32f10x_conf.h)(0x5EBCD1D7)
-I (D:\Installation\KEIL_MDK\KEIL5_27\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
-I (.\2.User\sys\sys.h)(0x5EBCD377)
-I (.\2.User\usart_debug\usart_debug.h)(0x5EBCD220)
-I (.\2.User\delay\delay.h)(0x5EBCD9AC)
-I (.\2.User\led\led.h)(0x5F90636A)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
-I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
-I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_type.h)(0x5C62E9A0)
-I (.\5.USB\APP\inc\usb_conf.h)(0x5C62E9A0)
-I (.\5.USB\APP\inc\usb_desc.h)(0x60C7907D)
+I (.\5.USB\APP\inc\usb_desc.h)(0x60C790D4)
 I (.\5.USB\APP\inc\usb_pwr.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_core.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_istr.h)(0x5C62E9A0)
@@ -1116,7 +1031,7 @@ I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_init.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_sil.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_mem.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_int.h)(0x5C62E9A0)
-F (.\5.USB\STM32_USB-FS-Device_Driver\src\usb_init.c)(0x5C62E9A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_init.o --omf_browse .\1.output\objects\usb_init.crf --depend .\1.output\objects\usb_init.d)
+F (.\5.USB\STM32_USB-FS-Device_Driver\src\usb_core.c)(0x5C62E9A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_core.o --omf_browse .\1.output\objects\usb_core.crf --depend .\1.output\objects\usb_core.d)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_lib.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\hw_config.h)(0x5CE268A1)
 I (.\5.USB\APP\inc\platform_config.h)(0x5C62E9A0)
@@ -1155,7 +1070,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_type.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_conf.h)(0x5C62E9A0)
-I (.\5.USB\APP\inc\usb_desc.h)(0x60C7907D)
+I (.\5.USB\APP\inc\usb_desc.h)(0x60C790D4)
 I (.\5.USB\APP\inc\usb_pwr.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_core.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_istr.h)(0x5C62E9A0)
@@ -1166,7 +1081,7 @@ I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_init.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_sil.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_mem.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_int.h)(0x5C62E9A0)
-F (.\5.USB\STM32_USB-FS-Device_Driver\src\usb_int.c)(0x5C62E9A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_int.o --omf_browse .\1.output\objects\usb_int.crf --depend .\1.output\objects\usb_int.d)
+F (.\5.USB\STM32_USB-FS-Device_Driver\src\usb_init.c)(0x5C62E9A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_init.o --omf_browse .\1.output\objects\usb_init.crf --depend .\1.output\objects\usb_init.d)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_lib.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\hw_config.h)(0x5CE268A1)
 I (.\5.USB\APP\inc\platform_config.h)(0x5C62E9A0)
@@ -1205,7 +1120,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_type.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_conf.h)(0x5C62E9A0)
-I (.\5.USB\APP\inc\usb_desc.h)(0x60C7907D)
+I (.\5.USB\APP\inc\usb_desc.h)(0x60C790D4)
 I (.\5.USB\APP\inc\usb_pwr.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_core.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_istr.h)(0x5C62E9A0)
@@ -1216,7 +1131,7 @@ I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_init.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_sil.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_mem.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_int.h)(0x5C62E9A0)
-F (.\5.USB\STM32_USB-FS-Device_Driver\src\usb_mem.c)(0x5C62E9A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_mem.o --omf_browse .\1.output\objects\usb_mem.crf --depend .\1.output\objects\usb_mem.d)
+F (.\5.USB\STM32_USB-FS-Device_Driver\src\usb_int.c)(0x5C62E9A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_int.o --omf_browse .\1.output\objects\usb_int.crf --depend .\1.output\objects\usb_int.d)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_lib.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\hw_config.h)(0x5CE268A1)
 I (.\5.USB\APP\inc\platform_config.h)(0x5C62E9A0)
@@ -1255,7 +1170,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_type.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_conf.h)(0x5C62E9A0)
-I (.\5.USB\APP\inc\usb_desc.h)(0x60C7907D)
+I (.\5.USB\APP\inc\usb_desc.h)(0x60C790D4)
 I (.\5.USB\APP\inc\usb_pwr.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_core.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_istr.h)(0x5C62E9A0)
@@ -1266,7 +1181,7 @@ I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_init.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_sil.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_mem.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_int.h)(0x5C62E9A0)
-F (.\5.USB\STM32_USB-FS-Device_Driver\src\usb_regs.c)(0x5C62E9A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_regs.o --omf_browse .\1.output\objects\usb_regs.crf --depend .\1.output\objects\usb_regs.d)
+F (.\5.USB\STM32_USB-FS-Device_Driver\src\usb_mem.c)(0x5C62E9A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_mem.o --omf_browse .\1.output\objects\usb_mem.crf --depend .\1.output\objects\usb_mem.d)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_lib.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\hw_config.h)(0x5CE268A1)
 I (.\5.USB\APP\inc\platform_config.h)(0x5C62E9A0)
@@ -1305,7 +1220,7 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_type.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_conf.h)(0x5C62E9A0)
-I (.\5.USB\APP\inc\usb_desc.h)(0x60C7907D)
+I (.\5.USB\APP\inc\usb_desc.h)(0x60C790D4)
 I (.\5.USB\APP\inc\usb_pwr.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_core.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_istr.h)(0x5C62E9A0)
@@ -1316,7 +1231,7 @@ I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_init.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_sil.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_mem.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_int.h)(0x5C62E9A0)
-F (.\5.USB\STM32_USB-FS-Device_Driver\src\usb_sil.c)(0x5C62E9A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\key -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_sil.o --omf_browse .\1.output\objects\usb_sil.crf --depend .\1.output\objects\usb_sil.d)
+F (.\5.USB\STM32_USB-FS-Device_Driver\src\usb_regs.c)(0x5C62E9A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_regs.o --omf_browse .\1.output\objects\usb_regs.crf --depend .\1.output\objects\usb_regs.d)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_lib.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\hw_config.h)(0x5CE268A1)
 I (.\5.USB\APP\inc\platform_config.h)(0x5C62E9A0)
@@ -1355,7 +1270,57 @@ I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
 I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_type.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_conf.h)(0x5C62E9A0)
-I (.\5.USB\APP\inc\usb_desc.h)(0x60C7907D)
+I (.\5.USB\APP\inc\usb_desc.h)(0x60C790D4)
+I (.\5.USB\APP\inc\usb_pwr.h)(0x5C62E9A0)
+I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_core.h)(0x5C62E9A0)
+I (.\5.USB\APP\inc\usb_istr.h)(0x5C62E9A0)
+I (.\5.USB\APP\inc\usb_prop.h)(0x5C62E9A0)
+I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_regs.h)(0x5C62E9A0)
+I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_def.h)(0x5C62E9A0)
+I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_init.h)(0x5C62E9A0)
+I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_sil.h)(0x5C62E9A0)
+I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_mem.h)(0x5C62E9A0)
+I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_int.h)(0x5C62E9A0)
+F (.\5.USB\STM32_USB-FS-Device_Driver\src\usb_sil.c)(0x5C62E9A0)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\3.Libraries\CMSIS -I .\3.Libraries\CMSIS\core -I .\3.Libraries\CMSIS\startup -I .\3.Libraries\STM32F10x_StdPeriph_Driver\inc -I .\2.User -I .\2.User\delay -I .\2.User\sys -I .\2.User\led -I .\2.User\usart_debug -I .\2.User\power -I .\2.User\time -I .\2.User\ws2812b -I .\2.User\adc -I .\5.USB\STM32_USB-FS-Device_Driver\inc -I .\5.USB\APP\inc -I .\2.User\keyboard-I.\RTE\_MY_Project-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Installation\KEIL_MDK\KEIL5_27\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\1.output\objects\usb_sil.o --omf_browse .\1.output\objects\usb_sil.crf --depend .\1.output\objects\usb_sil.d)
+I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_lib.h)(0x5C62E9A0)
+I (.\5.USB\APP\inc\hw_config.h)(0x5CE268A1)
+I (.\5.USB\APP\inc\platform_config.h)(0x5C62E9A0)
+I (.\3.Libraries\CMSIS\stm32f10x.h)(0x58953819)
+I (.\3.Libraries\CMSIS\core\core_cm3.h)(0x58953819)
+I (D:\Installation\KEIL_MDK\KEIL5_27\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (.\3.Libraries\CMSIS\system_stm32f10x.h)(0x58953819)
+I (.\2.User\stm32f10x_conf.h)(0x5EBCD1D7)
+I (D:\Installation\KEIL_MDK\KEIL5_27\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (.\2.User\sys\sys.h)(0x5EBCD377)
+I (.\2.User\usart_debug\usart_debug.h)(0x5EBCD220)
+I (.\2.User\delay\delay.h)(0x5EBCD9AC)
+I (.\2.User\led\led.h)(0x5F90636A)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h)(0x58953819)
+I (.\3.Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x58953819)
+I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_type.h)(0x5C62E9A0)
+I (.\5.USB\APP\inc\usb_conf.h)(0x5C62E9A0)
+I (.\5.USB\APP\inc\usb_desc.h)(0x60C790D4)
 I (.\5.USB\APP\inc\usb_pwr.h)(0x5C62E9A0)
 I (.\5.USB\STM32_USB-FS-Device_Driver\inc\usb_core.h)(0x5C62E9A0)
 I (.\5.USB\APP\inc\usb_istr.h)(0x5C62E9A0)

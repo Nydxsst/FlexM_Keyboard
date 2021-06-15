@@ -338,7 +338,7 @@
               <MiscControls></MiscControls>
               <Define>USE_STDPERIPH_DRIVER,STM32F10X_MD</Define>
               <Undefine></Undefine>
-              <IncludePath>.\3.Libraries\CMSIS;.\3.Libraries\CMSIS\core;.\3.Libraries\CMSIS\startup;.\3.Libraries\STM32F10x_StdPeriph_Driver\inc;.\2.User;.\2.User\delay;.\2.User\sys;.\2.User\led;.\2.User\usart_debug;.\2.User\key;.\2.User\power;.\2.User\time;.\2.User\ws2812b;.\2.User\adc;.\5.USB\STM32_USB-FS-Device_Driver\inc;.\5.USB\APP\inc;.\2.User\keyboard</IncludePath>
+              <IncludePath>.\3.Libraries\CMSIS;.\3.Libraries\CMSIS\core;.\3.Libraries\CMSIS\startup;.\3.Libraries\STM32F10x_StdPeriph_Driver\inc;.\2.User;.\2.User\delay;.\2.User\sys;.\2.User\led;.\2.User\usart_debug;.\2.User\power;.\2.User\time;.\2.User\ws2812b;.\2.User\adc;.\5.USB\STM32_USB-FS-Device_Driver\inc;.\5.USB\APP\inc;.\2.User\keyboard</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -411,11 +411,6 @@
               <FileName>usart_debug.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\2.User\usart_debug\usart_debug.c</FilePath>
-            </File>
-            <File>
-              <FileName>key.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\2.User\key\key.c</FilePath>
             </File>
             <File>
               <FileName>power.c</FileName>
