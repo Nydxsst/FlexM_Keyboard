@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Wireless_Receiver.PrjPcb]
+   Generated File[Wireless_Receiver-RoundHoles.TXT]
+   Generated File[Wireless_Receiver-SlotHoles.TXT]
+   Generated File[Wireless_Receiver.LDP]
+   Generated File[Wireless_Receiver.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 1:01:03 On 2021/6/19

@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : E:\Working backup\3.Project\MY Project\9.Œﬁœﬂº¸≈Ã Û±Í\FlexM_Keyboard\FlexM_Keyboard\Wireless_Receiver\Hardware\v3.0\Wireless_Receiver\Wireless_Receiver.PcbDoc
+Date         : 2021/6/19
+Time         : 0:47:20
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 62
+    Connections routed, 62
+    Connections remaining, 0
+count : 4

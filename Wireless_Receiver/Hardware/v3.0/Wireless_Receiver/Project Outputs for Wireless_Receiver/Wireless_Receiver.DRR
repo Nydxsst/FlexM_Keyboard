@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Wireless_Receiver.PcbDoc   2021/6/19  1:01:02
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Wireless_Receiver-RoundHoles.TXT
+ASCII SlotHoles File : Wireless_Receiver-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             31        PTH        0.00inch (0.00mm)
+T2      30mil (0.762mm)                                           Slot              2         PTH        0.00inch (0.00mm)
+T3      43mil (1.1mm)                                             Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              35
+
+Total Processing Time (hh:mm:ss) : 00:00:01
