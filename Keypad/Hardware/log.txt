@@ -1,0 +1,21 @@
+footpoint占用统计
+
+key  19+6=25
+NRF24L01  6
+system_led  1
+//led_screen  8+24=32 + 1pwm(brightness control) led屏size 17*48
+ws2812  1
+usb  2
+debug_uart  2
+power 4
+
+sum: 41
+
+Rx: 51 footpoint
+Vx: 80 footpoint
+Zx: 112 footpoint
+
+需要灯的按键
+大写锁定键
+Fn键：按下后显示电量键同时切换功能，或者双击键入电量值
+
