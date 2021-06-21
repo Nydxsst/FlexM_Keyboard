@@ -1862,7 +1862,7 @@
       <Doc>
         <Name>.\2.User\main.c</Name>
         <ColumnNumber>6</ColumnNumber>
-        <TopLine>61</TopLine>
+        <TopLine>88</TopLine>
         <CurrentLine>81</CurrentLine>
         <Folding>1</Folding>
         <ContractedFolders></ContractedFolders>
@@ -1879,9 +1879,9 @@
       </Doc>
       <Doc>
         <Name>.\2.User\si24r1\si24r1.c</Name>
-        <ColumnNumber>25</ColumnNumber>
-        <TopLine>213</TopLine>
-        <CurrentLine>233</CurrentLine>
+        <ColumnNumber>11</ColumnNumber>
+        <TopLine>204</TopLine>
+        <CurrentLine>220</CurrentLine>
         <Folding>1</Folding>
         <ContractedFolders></ContractedFolders>
         <PaneID>0</PaneID>
